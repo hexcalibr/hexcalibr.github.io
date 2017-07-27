@@ -1,8 +1,9 @@
-h1 {
+#page-title {
   background-color: #8c8c8c
   font-family: "Verdana", sans-serif;
 }
 
 p {
   font-family: "Garamond", serif;
+  border-style: inset;
 }
