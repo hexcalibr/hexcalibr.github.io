@@ -3,7 +3,7 @@
   font-family: "Verdana", sans-serif;
 }
 
-p {
+.body {
   font-family: "Garamond", serif;
-  border-style: inset;
+  border-style: dashed;
 }
