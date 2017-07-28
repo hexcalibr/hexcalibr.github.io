@@ -1,11 +1,15 @@
 #page-title {
-  background-color: #8c8c8c
+  color: #FFF;
+  background-color: #c9c9c9;
   font-family: "Verdana", sans-serif;
   line-height: 0.5em;
+
 }
 
 .body {
   font-family: "Garamond", serif;
+  color: #FFF;
+  background-color: #c9c9c9;
   border-style: ridge;
   border-width: 8px;
 }
