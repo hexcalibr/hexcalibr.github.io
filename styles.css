@@ -6,4 +6,6 @@
 
 .body {
   font-family: "Garamond", serif;
+  border-style: double;
+  border-width: 8px;
 }
