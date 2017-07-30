@@ -1,12 +1,12 @@
 * {
 	box-sizing: border-box;
 	background-color: #c9c9c9;
-	border-width: 5px;
+	border: 5px solid black;
 }
 
 #page-title {
   font-family: "Verdana", sans-serif;
-  padding-bottom: 5px
+  padding-bottom: 5px;
 }
 
 .body {
