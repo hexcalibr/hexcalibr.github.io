@@ -1,9 +1,11 @@
 * {
 	box-sizing: border-box;
 	background-color: #c9c9c9;
-	border: 1px solid black;
 }
 
+div {
+	border: 1px solid #000;
+}
 #page-title {
   font-family: "Verdana", sans-serif;
   position: absolute;
@@ -13,7 +15,7 @@
 }
 
 .main {
-	
+
 }
 
 .body {
