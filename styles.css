@@ -6,7 +6,9 @@
 
 #page-title {
   font-family: "Verdana", sans-serif;
-  padding-bottom: 5px;
+  position: relative;
+  top: 20px;
+  left: 30px;
 }
 
 .body {
